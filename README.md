@@ -12,10 +12,14 @@ This repository is part of my learning journey.
 ## Project Files
 - app.py
 
+Learning Git Branches today.
+
+
+
+Today I learned git status.
+
 <<<<<<< HEAD
 Started on:3 March 2026
 =======
 Started on:3 March 2026
 >>>>>>> d86c3761d9d2179f272f3229fb4ceea21fa17a69
-
-Learning Git Branches today.
