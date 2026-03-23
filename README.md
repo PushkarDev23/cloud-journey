@@ -1,25 +1,38 @@
-# Cloud Journey 🚀
+# 🚀 Cloud Journey
 
 Hi 👋  
-This repository is part of my learning journey.
+This repository is part of my learning journey towards becoming a Cloud Engineer.
 
-## What I am learning:
-- Git
+---
+
+## 📚 What I am learning
+- Git & GitHub
 - Linux
 - Python
-- AWS
+- AWS (Cloud Computing)
 
-## Project Files
-- app.py
+---
 
-Learning Git Branches today.
+## 📁 Project Structure
+- app.py → Python practice
+- aws-notes → AWS learning notes
+- linux-notes → Linux commands & practice
+- python-practice → Python programs
 
+---
 
+## 🛠 Tools Used
+- Git
+- GitHub
+- VS Code
 
-Today I learned git status.
+---
 
-<<<<<<< HEAD
-Started on:3 March 2026
-=======
-Started on:3 March 2026
->>>>>>> d86c3761d9d2179f272f3229fb4ceea21fa17a69
+## 📅 Progress
+- Started on: March 2026
+- Daily learning updates
+
+---
+
+## 💡 Goal
+To become a skilled Cloud Engineer 🚀
